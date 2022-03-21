@@ -10,3 +10,7 @@ banana
 pine apple
 mango
 jack fruits
+-----------------------------------
+sattya
+pavitra
+aishwarya
